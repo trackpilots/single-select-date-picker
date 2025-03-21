@@ -6,10 +6,6 @@
 
 A **customizable single select date picker** component built with **React** and **Tailwind CSS**.
 
-## ✨ Screenshots  
-
-![Screenshot](assets/screenshot-preview.png)
----
 
 ## 🚀 Installation  
 You can install the package using **npm** or **yarn**:  
