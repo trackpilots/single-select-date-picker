@@ -1,8 +1,8 @@
 # @trackpilots/single-select-date-picker
 
-![npm](https://img.shields.io/npm/v/@trackpilots/date-picker?style=flat-square)
-![license](https://img.shields.io/npm/l/@trackpilots/date-picker?style=flat-square)
-![downloads](https://img.shields.io/npm/dt/@trackpilots/date-picker?style=flat-square)
+![npm](https://img.shields.io/npm/v/@trackpilots/single-select-date-picker?style=flat-square)
+![license](https://img.shields.io/npm/l/@trackpilots/single-select-date-picker?style=flat-square)
+![downloads](https://img.shields.io/npm/dt/@trackpilots/single-select-date-picker?style=flat-square)
 
 A **customizable single select date picker** component built with **React** and **Tailwind CSS**.
 
