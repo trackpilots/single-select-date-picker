@@ -4,9 +4,11 @@
 ![license](https://img.shields.io/npm/l/@trackpilots/single-select-date-picker?style=flat-square)
 ![downloads](https://img.shields.io/npm/dt/@trackpilots/single-select-date-picker?style=flat-square)
 
+## ✨ Screenshots  
+![Screenshot](assets/image.png)
+---
+
 A **customizable single select date picker** component built with **React** and **Tailwind CSS**.
-
-
 ## 🚀 Installation  
 You can install the package using **npm** or **yarn**:  
 
@@ -38,7 +40,7 @@ const App = () => {
     <div className="p-4">
       <h2 className="text-lg font-bold">Date Picker</h2>
       <SingleSelectDateFilter
-        defaultChoosenDate={"Today"}
+        selectedDate={new Date("2024-06-01")} 
         onSelect={handleSelect}
         selectedColor="#FF5733"
       />
