@@ -8,7 +8,7 @@ A **customizable single select date picker** component built with **React** and 
 
 ## ✨ Screenshots  
 
-![Screenshot](assets/screenshots.png)
+![Screenshot](assets/screenshot-preview.png)
 ---
 
 ## 🚀 Installation  
